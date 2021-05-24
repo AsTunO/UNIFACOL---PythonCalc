@@ -2,8 +2,6 @@
 
 Helo! Welcome, a project developed by students from UNIFACOL, Facol University, of the Information Systems course. For the achievement of grades in the discipline of Programming Logic. 
 
-![](C:\Users\Pichau\Pictures\All\PythonCalc.png)
-
 ## Installation
 
 ## Python
@@ -15,21 +13,21 @@ Helo! Welcome, a project developed by students from UNIFACOL, Facol University, 
 
 ### 	Linux
 
-		- ```$ which python```
-		- ```$ sudo apt-get install python3```
-		- ```$ sudo apt-get install python3-pip```
-		- ```$ sudo yum install python3```
-		- ```$ yum -y install python3-pip```
+		- $ which python
+		- $ sudo apt-get install python3
+		- $ sudo apt-get install python3-pip
+		- $ sudo yum install python3
+		- $ yum -y install python3-pip
 
 ### 	Mac-OS
 
-		- ```$ which python```
-		- ```$ xcode-select --install```
-		- ```$ sudo easy_install pip```
-		- ```$ sudo pip install --upgrade pip```
-		- ```$ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"```
-		- ```$ brew install python```
-		- ```$ brew install python3```
+		- $ which python
+		- $ xcode-select --install
+		- $ sudo easy_install pip
+		- $ sudo pip install --upgrade pip
+		- $ ruby -e "$(curl -fsSL https://raw.github.com/mxcl/homebrew/go)"
+		- $ brew install python
+		- $ brew install python3
 
 ### PyQT5 (Comands)
 
