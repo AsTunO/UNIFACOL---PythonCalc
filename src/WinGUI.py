@@ -3,7 +3,7 @@ from PySide2.QtGui import *
 from PySide2.QtWidgets import *
 
 
-class Ui_.(object):
+class Ui_(object):
     def setupUi(self, _):
         if not _.objectName():
             _.setObjectName(u"_")
