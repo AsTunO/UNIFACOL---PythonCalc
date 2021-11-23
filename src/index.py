@@ -6,7 +6,6 @@ import math
 app = QtWidgets.QApplication([])
 style = uic.loadUi("style.ui")
 
-
 factor = ""
 num = ""
 op = ""
