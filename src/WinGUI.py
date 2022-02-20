@@ -7,8 +7,7 @@ class Ui_(object):
         if not _.objectName():
             _.setObjectName(u"_")
         _.resize(215, 275)
-        _.setStyleSheet(u"background-color: rgb(18, 138, 138);\n"
-"")
+        _.setStyleSheet(u"background-color: rgb(18, 138, 138);\n""")
         self.centralwidget = QWidget(_)
         self.centralwidget.setObjectName(u"centralwidget")
         self.pushButton = QPushButton(self.centralwidget)
