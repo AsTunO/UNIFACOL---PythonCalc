@@ -62,11 +62,8 @@ Helo! Welcome, a project developed by students from UNIFACOL, Facol University, 
 
 ### Contributors 
 
-- Filipe Vinícius Pereira Santos
 
 - Júlio Cesar Roque da Silva
-
-- Maria Jaciara da Silva Santos
 
 - José Thiago Torres da Silva
 
