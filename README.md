@@ -62,10 +62,10 @@ Helo! Welcome, a project developed by students from UNIFACOL, Facol University, 
 
 ### Contributors 
 
-
-- Júlio Cesar Roque da Silva
-
-- José Thiago Torres da Silva
+<div>
+<img src="https://github.com/AsTunO.png" href="https://github.com/AsTunO" width="100px">
+<img src="https://github.com/AkiraTorres.png" href="https://github.com/AkiraTorres" width="100px">
+</div>
 
   
 
