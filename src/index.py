@@ -10,6 +10,7 @@ factor = ""
 num = ""
 op = ""
 
+
 # Função que faz as operações
 def operation(factor, num, op):
     result = ""
