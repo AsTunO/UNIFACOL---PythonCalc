@@ -50,7 +50,6 @@ Helo! Welcome, a project developed by students from UNIFACOL, Facol University, 
 - Run the .py file 
 
   
-
 ## Version History
 
  - 1.1.0    
