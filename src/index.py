@@ -220,6 +220,5 @@ style.pushButton_27.clicked.connect(btDivInt)
 style.pushButton_28.clicked.connect(btExpo)
 style.pushButton_11.clicked.connect(btRun)
 
-
 style.show()
 app.exec()
